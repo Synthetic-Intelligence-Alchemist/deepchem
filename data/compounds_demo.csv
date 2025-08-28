@@ -1,0 +1,13 @@
+class,name,smiles
+2C-series,2C-B,CCc1cc(Br)c(OCc2ccccc2)c(Br)c1CCN
+2C-series,2C-I,CCc1cc(I)c(OCc2ccccc2)c(I)c1CCN
+2C-series,2C-E,CCCc1cc(Br)c(OCc2ccccc2)c(Br)c1CCN
+2C-series,2C-P,CC(C)c1cc(Br)c(OCc2ccccc2)c(Br)c1CCN
+2C-series,2C-T-2,CCc1cc(SCc2ccccc2)c(OCc3ccccc3)c(SCc4ccccc4)c1CCN
+DOx-series,DOB,CC(N)Cc1cc(Br)c(OCc2ccccc2)c(Br)c1
+DOx-series,DOI,CC(N)Cc1cc(I)c(OCc2ccccc2)c(I)c1
+DOx-series,DOM,COc1cc(CC(C)N)cc(OC)c1OCc1ccccc1
+Mescaline-analog,Mescaline,COc1cc(CCN)cc(OC)c1OC
+Mescaline-analog,Escaline,CCOc1cc(CCN)cc(OCC)c1OCC
+NBOMe-series,25B-NBOMe,COc1cc(CCNCc2ccccc2OC)c(Br)cc1OCc1ccccc1
+NBOMe-series,25I-NBOMe,COc1cc(CCNCc2ccccc2OC)c(I)cc1OCc1ccccc1

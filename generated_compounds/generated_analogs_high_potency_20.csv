@@ -1,0 +1,21 @@
+name,smiles,modification_type,description
+2C-Br,CCc1cc(Br)c(OCc2ccccc2)c(Br)c1CCN,halogen_substitution,2C-B analog with Br substitution
+2C-Cl,CCc1cc(Cl)c(OCc2ccccc2)c(Cl)c1CCN,halogen_substitution,2C-B analog with Cl substitution
+2C-I,CCc1cc(I)c(OCc2ccccc2)c(I)c1CCN,halogen_substitution,2C-B analog with I substitution
+2C-F,CCc1cc(F)c(OCc2ccccc2)c(F)c1CCN,halogen_substitution,2C-B analog with F substitution
+2C-Br-Cl,CCc1cc(Br)c(OCc2ccccc2)c(Cl)c1CCN,mixed_halogen,2C-B analog with Br and Cl substitution
+2C-B-C,Cc1cc(Br)c(OCc2ccccc2)c(Br)c1CCN,alkyl_chain,2C-B analog with C alkyl chain
+2C-B-CCC,CCCc1cc(Br)c(OCc2ccccc2)c(Br)c1CCN,alkyl_chain,2C-B analog with CCC alkyl chain
+2C-B-CC(C),CC(C)c1cc(Br)c(OCc2ccccc2)c(Br)c1CCN,alkyl_chain,2C-B analog with CC(C) alkyl chain
+2C-B-CCCC,CCCCc1cc(Br)c(OCc2ccccc2)c(Br)c1CCN,alkyl_chain,2C-B analog with CCCC alkyl chain
+2C-B-NC,CCc1cc(Br)c(OCc2ccccc2)c(Br)c1CN,amine_chain,2C-B analog with modified amine chain
+2C-B-4-OC,CCc1cc(Br)c(OC)c(Br)c1CCN,aromatic_substitution,2C-B analog with 4-position OC substitution
+2C-B-4-OCC,CCc1cc(Br)c(OCC)c(Br)c1CCN,aromatic_substitution,2C-B analog with 4-position OCC substitution
+2C-B-4-OCCC,CCc1cc(Br)c(OCCC)c(Br)c1CCN,aromatic_substitution,2C-B analog with 4-position OCCC substitution
+2C-B-4-N(C)C,CCc1cc(Br)c(N(C)C)c(Br)c1CCN,aromatic_substitution,2C-B analog with 4-position N(C)C substitution
+2C-B-MDO,CCc1cc(Br)c2c(c1CCN)OCO2,ring_fusion,2C-B analog with methylenedioxy ring
+DOB-analog,CC(N)Cc1cc(Br)c(OCc2ccccc2)c(Br)c1,scaffold_hop,DOx-type scaffold with 2C-B substitution pattern
+2C-B-BF,CCc1cc(Br)c2oc3ccccc3c2c1CCN,scaffold_hop,Benzofuran scaffold variant of 2C-B
+2C-B-T,CCc1cc(Br)sc1CCN,scaffold_hop,Thiophene scaffold variant of 2C-B
+Random-Br-Br-3,CCCc1cc(Br)c(OC)c(Br)c1CCN,random_combination,Randomly generated analog
+Random-Br-Br-5,CC(C)c1cc(Br)c(OC)c(Br)c1CCN,random_combination,Randomly generated analog
